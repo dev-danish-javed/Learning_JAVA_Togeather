@@ -11,6 +11,6 @@ public class TryCatchTest {
         System.out.println(names[9]);
         int a = 10 / 0;
         Path path = Paths.get("src/main/resources/shakespeare.txt");
-        List contents = Files.readAllLines(path);
+//        List contents = Files.readAllLines(path);
     }
 }
